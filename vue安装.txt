@@ -1,0 +1,13 @@
+
+
+
+vue°²×°
+npm install vue-cli -g
+
+vue init webpack my-project
+
+npm install
+
+npm run dev  npm run build
+
+npm install vuex --save
